@@ -1,4 +1,4 @@
-# x302la-and-r301la-hackintosh-
+# x302la and r301la hackintosh
 x302la and r301la hackintosh 
 
 EN
